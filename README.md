@@ -8,11 +8,7 @@ I conducted a thorough analysis of the available data to understand its structur
 
 #### Data transformation and cleansing:
 Implemented data transformation and cleansing processes to address identified deficiencies. This included data normalization, outlier correction, and any other transformations needed to improve the quality and utility of the data.
-<img src="https://github.com/Pking31/PowerBI_project/blob/main/imag/adminisbi.png" alt="Texto alternativo" width="500" height="400">
 
-<img src="https://github.com/Pking31/PowerBI_project/blob/main/imag/isncrbi.png" alt="Texto alternativo" width="500" height="400">
-
-
-<img src="https://github.com/Pking31/PowerBI_project/blob/main/imag/primerbi.png" alt="Texto alternativo" width="500" height="400">
+<img src="https://github.com/Pking31/PowerBI_project/blob/main/imag/primerbi.png" alt="Texto alternativo">
 
 Source: Ministerio de Educación Naciona(lhttps://snies.mineducacion.gov.co/portal/ESTADISTICAS/Bases-consolidadas/)
